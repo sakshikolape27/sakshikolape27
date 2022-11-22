@@ -1,0 +1,5 @@
+thislist=["appl
+thislist=["apple","banana","cherry"]
+print(thislist)
+thislist1=["apple","banana","cherry"]
+print(len(thislist1))
